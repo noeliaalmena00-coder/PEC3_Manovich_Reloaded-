@@ -1,10 +1,10 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ### Recurso de aprendizaje de Cultura Digital 
-Autor: Noelia Almena Calderón
-Profesor: Francisco Miguel Gea Megías
-Asignatura: Cultura Digital
-Fecha: 19 de Diciembre de 2025
+Autor: Noelia Almena Calderón <br>
+Profesor: Francisco Miguel Gea Megías <br>
+Asignatura: Cultura Digital<br>
+Fecha: 19 de Diciembre de 2025 <br>
 
 ![enter image description here](https://www.universiteitleiden.nl/binaries/content/gallery/customsites/creative-intelligence-and-technology/manovich.photo-evgeniya-gorobets.v3.jpg/manovich.photo-evgeniya-gorobets.v3.jpg/d880x320)
 
